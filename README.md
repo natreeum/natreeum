@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @natreeum
 - 👀 I’m interested in blockchain / NFT
-- 🌱 I’m currently learning  NFT / SmartContract !
+- 🌱 I’m currently learning  NFT / SmartContract / javascript(Node.js) !
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me projectkmscom@gmail.com 
 
