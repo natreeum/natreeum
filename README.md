@@ -1,4 +1,4 @@
-## Hi I am Natreeum Who wanna be Nice programmer
+## Hi I am Natreeum Who wants to be a better programmer
 
 [![Natreeum's GitHub stats](https://github-readme-stats.vercel.app/api?username=natreeum&show_icons=true&theme=vue-dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
