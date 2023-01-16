@@ -1,4 +1,4 @@
-## Hi I am Natreeum Who wants to be a better programmer
+## Hi I am Natreeum, always hope to be a better programmer
 
 <div align=center><h3>⚒️ Skills ⚒️</h3>
 
