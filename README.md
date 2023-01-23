@@ -25,7 +25,6 @@
 <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
 <img src="https://img.shields.io/badge/prisma-2D3748?style=for-the-badge&logo=Prisma&logoColor=white"></br>
 
-#### Modules
 <img src="https://img.shields.io/badge/discordjs-5865f2?style=for-the-badge&logo=discord&logoColor=white">
 
 </br></br></br>
