@@ -1,6 +1,6 @@
 ## Hi I am Natreeum, always want to be a better programmer
 
-<div align=center><h3>⚒️ Skills ⚒️</h3>
+<div align = center><h3>⚒️ Skills ⚒️</h3>
 
 
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
