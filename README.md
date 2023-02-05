@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/amazon aws-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
 <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=EXPRESS&logoColor=white">
 <img src="https://img.shields.io/badge/Nest JS-E0234E?style=for-the-badge&logo=NESTJS&logoColor=white">
-  <br>
+  </br>
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
 <img src="https://img.shields.io/badge/prisma-2D3748?style=for-the-badge&logo=Prisma&logoColor=white">
