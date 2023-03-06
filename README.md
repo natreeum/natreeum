@@ -21,6 +21,7 @@
 <img src="https://img.shields.io/badge/prisma-2D3748?style=for-the-badge&logo=Prisma&logoColor=white">
   </br>
 <img src="https://img.shields.io/badge/discordjs-5865f2?style=for-the-badge&logo=discord&logoColor=white">
+<img src="https://img.shields.io/badge/vim-019733?style=for-the-badge&logo=vim&logoColor=white">
 
 </br></br></br>
 
