@@ -1,10 +1,11 @@
 
 
-<div align = center>
+<div>
 
-## Hi! I am Natreeum, always hope to be a better programmer
+## 🙋‍♂️ Hi I am Natreeum 🙋‍♂️
+I'm the Software Engineer(BackEnd) of CREDER. Building and Managing server side and smart contracts.
 
-<h3>⚒️ Skills ⚒️</h3>
+## ⚒️ Skills ⚒️
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/solidity-363636?style=for-the-badge&logo=solidity&logoColor=white">
 <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
@@ -26,9 +27,7 @@
 <img src="https://img.shields.io/badge/discordjs-5865f2?style=for-the-badge&logo=discord&logoColor=white">
 <img src="https://img.shields.io/badge/vim-019733?style=for-the-badge&logo=vim&logoColor=white">
 
-</br></br></br>
-
-<h2>Github Stats</h2>
+## Github Stats
 
 [![Natreeum's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=natreeum&show_icons=true&theme=vue-dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -37,4 +36,19 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmin-0&count_bg=%2345DF22&title_bg=%23555555&icon=github.svg&icon_color=%23FFE4C4&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <a href="https://blog.naver.com/kmscompany"><img src="https://img.shields.io/badge/My tech blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://blog.naver.com/kmscompany"/></a>
 <br>
+
+---
+
+# 📚 Achievements & Educations
+
+## Hackathons
+- **🥉3rd Place** [Aptos Hackathon Seoul](https://aptosfoundation.org/currents/aptos-world-tour-seoul-hack-recap-2023) Social/NFT, Team [DID You Eat]
+
+## Bootcamps
+- Codestates Blockchain Engineering 7th
+- Protocol Camp 4th
+
+## Lectures
+- [Inflearn - **Functional Programming & Javascript ES6+**](https://www.inflearn.com/certificate/869481-247815-11690440)
+
 </div>
