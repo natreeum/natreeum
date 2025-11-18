@@ -34,6 +34,8 @@ I'm the Software Engineer(BackEnd) of CREDER. Building and Managing server side 
 
 ## Hackathons
 - **🥉3rd Place** [Aptos Hackathon Seoul](https://aptosfoundation.org/currents/aptos-world-tour-seoul-hack-recap-2023) Social/NFT, Team [DID You Eat]
+  <img width="617" height="718" alt="image" src="https://github.com/user-attachments/assets/200d526f-32db-4375-9742-0a300b66e133" />
+
 
 ## Bootcamps
 - Codestates Blockchain Engineering 7th
