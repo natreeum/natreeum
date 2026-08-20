@@ -21,9 +21,9 @@ I'm the Software Engineer(BackEnd) of CREDER. Building and Managing server side 
 
 ## Github Stats
 
-[![Natreeum's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=natreeum&show_icons=true&theme=vue-dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Natreeum's GitHub stats](https://github-stats-extended.vercel.app/api?username=natreeum&show_icons=true&theme=vue-dark&count_private=true)](https://github.com/stats-organization/github-stats-extended)
 
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=natreeum&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=natreeum&layout=compact)](https://github.com/stats-organization/github-stats-extended)
 
 <a href="https://blog.naver.com/kmscompany"><img src="https://img.shields.io/badge/My_blog-A9BCF5?style=flat-square&logoColor=white&link=https://blog.naver.com/kmscompany"/></a>
 <br>
